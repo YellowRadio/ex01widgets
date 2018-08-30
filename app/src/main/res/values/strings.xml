@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ex01</string>
+
+    <string-array name="MtOperacoes">
+        <item>Somar</item>
+        <item>Subtrair</item>
+    </string-array>
 </resources>
